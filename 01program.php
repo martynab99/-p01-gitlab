@@ -5,4 +5,5 @@ echo ("<br> Test");
 echo("<br> TEST 11111");
 echo("<br> TEST 2222");
 echo("<br>Dalsza czesc programu");
+echo("<br>Dalsza czesc na stronie GitHuba");
 ?>
